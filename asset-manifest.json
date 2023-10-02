@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/QuangUpReact/static/css/main.fda2d38e.css",
+    "main.js": "/QuangUpReact/static/js/main.15dad81c.js",
+    "static/media/shan-chilli-pickle-1kg.jpg": "/QuangUpReact/static/media/shan-chilli-pickle-1kg.b3bb650238fe72be4457.jpg",
+    "static/media/trustbanner2.png": "/QuangUpReact/static/media/trustbanner2.6a3bad56b7970ab44fa3.png",
+    "static/media/img-48.jpg": "/QuangUpReact/static/media/img-48.e03fcd0c15e848012fe1.jpg",
+    "static/media/img-50.jpg": "/QuangUpReact/static/media/img-50.733d859dbda0e5636a89.jpg",
+    "static/media/img-51.jpg": "/QuangUpReact/static/media/img-51.3f28a71ffc92ac78a9d8.jpg",
+    "static/media/img-49.jpg": "/QuangUpReact/static/media/img-49.c28fde11c908ae4e6c0d.jpg",
+    "static/media/img-47.jpg": "/QuangUpReact/static/media/img-47.6e9f1801c83e8834e14e.jpg",
+    "static/media/img-52.jpg": "/QuangUpReact/static/media/img-52.1c5c9de4ea586574f074.jpg",
+    "static/media/logo-start-organic.png": "/QuangUpReact/static/media/logo-start-organic.91817e63718e967c75dd.png",
+    "index.html": "/QuangUpReact/index.html",
+    "main.fda2d38e.css.map": "/QuangUpReact/static/css/main.fda2d38e.css.map",
+    "main.15dad81c.js.map": "/QuangUpReact/static/js/main.15dad81c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fda2d38e.css",
+    "static/js/main.15dad81c.js"
+  ]
+}
